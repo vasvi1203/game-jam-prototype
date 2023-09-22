@@ -19,7 +19,7 @@ public class InstructionsPanel : MonoBehaviour
     {
         // This is a simple example. Adjust this to fit your desired formatting and content!
         string content =
-    "<color=#FFD700><size=60><b>Instructions</b></size></color>\n\n" +
+    "<color=#FFD700><size=60><b><u>INSTRUCTIONS:</u></b></size></color>\n\n" +
     "<size=40><i>1. Start the quiz by selecting a category.</i></size>\n\n" +
     "<size=40><i>2. Answer questions correctly to earn points (+5 points for each correct answer).</i></size>\n\n" +
     "<size=40><i>3. Answering questions incorrectly will deduct points (-5 points for each incorrect answer).</i></size>\n\n" +

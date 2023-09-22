@@ -150,7 +150,7 @@ public class QuizGameUI : MonoBehaviour
         }
     }
 
-    public void RestryButton()
+    public void RetryButton()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
