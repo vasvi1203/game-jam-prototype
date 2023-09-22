@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: SpaceData
+  m_EditorClassIdentifier: 
+  categoryName: Space
+  questions:
+  - questionInfo: The Sun is a planet.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: False
+  - questionInfo: The Moon has its own source of light.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: False
+  - questionInfo: The Milky Way is the only galaxy in the universe.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: False
+  - questionInfo: Stars are much hotter than planets.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: True
+  - questionInfo: The International Space Station (ISS) orbits Earth in the exosphere.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: False
+  - questionInfo: The Great Red Spot is a famous storm on Mars.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: False
+  - questionInfo: The Hubble Space Telescope is named after a famous astronaut.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: False
+  - questionInfo: A day on Mercury is longer than its year.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: True
+  - questionInfo: Halley's Comet returns to the inner solar system approximately
+      every 10 years.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: False
+  - questionInfo: The asteroid belt is located between Mars and Jupiter.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: True
+  - questionInfo: The speed of light is faster than the speed of sound.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: True
+  - questionInfo: Black holes are invisible and cannot be observed directly.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: True
+  - questionInfo: The closest star system to our Sun is Alpha Centauri.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: True
+  - questionInfo: The Apollo 11 mission was the first human landing on the Moon.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: True
+  - questionInfo: The largest planet in our solar system is Saturn.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: False

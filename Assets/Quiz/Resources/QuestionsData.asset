@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: QuestionsData
+  m_EditorClassIdentifier: 
+  categoryName: Mix
+  questions:
+  - questionInfo: The Sun is a planet.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: False
+  - questionInfo: The Earth is the only planet in our solar system with liquid water
+      on its surface.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: True
+  - questionInfo: The Moon has its own source of light.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: False
+  - questionInfo: The Great Red Spot is a famous storm on Mars.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: False
+  - questionInfo: Earth's atmosphere is composed primarily of oxygen.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: False
+  - questionInfo: The International Space Station (ISS) is located on the Moon.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: False
+  - questionInfo: The asteroid belt is a region between Mars and Jupiter.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: True
+  - questionInfo: Halley's Comet is visible from Earth every year.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: False
+  - questionInfo: The Milky Way is the only galaxy in the universe.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: False
+  - questionInfo: A lunar eclipse occurs when the Earth comes between the Sun and
+      the Moon.
+    questionType: 0
+    questionImage: {fileID: 0}
+    options:
+    - True
+    - False
+    correctAns: True
+  - questionInfo: In this image, Venus is the second planet from the Sun.
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: af7830ade9accba469bf22e50839f761, type: 3}
+    options:
+    - True
+    - False
+    correctAns: True
+  - questionInfo: The object behind the astronaut is the Earth.
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 494f16cf18100514b9c7fa946a829efb, type: 3}
+    options:
+    - True
+    - False
+    correctAns: True
+  - questionInfo: The Hubble Space Telescope is located on the surface of the Earth.
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 0625ed066f655d643a029dd5a005e965, type: 3}
+    options:
+    - True
+    - False
+    correctAns: False
+  - questionInfo: The planet in the image is Jupiter.
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: f614a90f4336bc247b0c671391477ac9, type: 3}
+    options:
+    - True
+    - False
+    correctAns: False
+  - questionInfo: This image shows a lunar eclipse.
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: db2ca66a33d00464c9a1e2c2e1003add, type: 3}
+    options:
+    - True
+    - False
+    correctAns: False
