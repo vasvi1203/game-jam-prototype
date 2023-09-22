@@ -225,7 +225,55 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1077895212542302688, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
       propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1875379491242045107, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: m_AnchorMax.y
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1875379491242045107, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1875379491242045107, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 60.283646
+      objectReference: {fileID: 0}
+    - target: {fileID: 1875379491242045107, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 33.96358
+      objectReference: {fileID: 0}
+    - target: {fileID: 1875379491242045107, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 98.42547
+      objectReference: {fileID: 0}
+    - target: {fileID: 1875379491242045107, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -16.98179
+      objectReference: {fileID: 0}
+    - target: {fileID: 4933096324550167636, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4933096324550167636, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4933096324550167636, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 60.283646
+      objectReference: {fileID: 0}
+    - target: {fileID: 4933096324550167636, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 33.96358
+      objectReference: {fileID: 0}
+    - target: {fileID: 4933096324550167636, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 166.7091
+      objectReference: {fileID: 0}
+    - target: {fileID: 4933096324550167636, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -16.98179
       objectReference: {fileID: 0}
     - target: {fileID: 8248708183956018031, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
       propertyPath: m_Pivot.x
@@ -306,6 +354,30 @@ PrefabInstance:
     - target: {fileID: 8248708183956018031, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9076733803609783026, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9076733803609783026, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9076733803609783026, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 60.283646
+      objectReference: {fileID: 0}
+    - target: {fileID: 9076733803609783026, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 33.96358
+      objectReference: {fileID: 0}
+    - target: {fileID: 9076733803609783026, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 30.141823
+      objectReference: {fileID: 0}
+    - target: {fileID: 9076733803609783026, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -16.98179
       objectReference: {fileID: 0}
     - target: {fileID: 9086728266576132011, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
       propertyPath: m_Name
