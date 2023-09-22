@@ -715,6 +715,14 @@ PrefabInstance:
       propertyPath: quizManager
       value: 
       objectReference: {fileID: 494427069}
+    - target: {fileID: 6729606410234112389, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: quizGameUI
+      value: 
+      objectReference: {fileID: 935504797}
+    - target: {fileID: 6729606410234112389, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 494427069}
     - target: {fileID: 6791573608180983730, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
       propertyPath: quizGameUI
       value: 
