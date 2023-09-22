@@ -515,7 +515,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1587236894603220076, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -108.00035
+      value: -108.000336
       objectReference: {fileID: 0}
     - target: {fileID: 1702779188671133197, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
       propertyPath: m_Type
@@ -658,6 +658,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 13af95769cb7e204281e41f50603e527, type: 3}
     - target: {fileID: 4170137345804745956, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: hasShip
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4170137345804745956, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
       propertyPath: quizGameUI
       value: 
       objectReference: {fileID: 935504797}
@@ -724,6 +728,10 @@ PrefabInstance:
     - target: {fileID: 5195791894043831874, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215640647504610219, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
+      propertyPath: hasShip
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5215640647504610219, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
       propertyPath: quizGameUI
@@ -1009,7 +1017,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8478293459894778218, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -18.999756
+      value: -18.999634
       objectReference: {fileID: 0}
     - target: {fileID: 8478293459894778218, guid: 99e9ca2d225ca4192a214d334e2de87b, type: 3}
       propertyPath: m_AnchoredPosition.y
