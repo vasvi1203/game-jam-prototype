@@ -31,6 +31,9 @@ public class TileScript : MonoBehaviour
             {
                 tileImage.color = Color.green;
                 quizGameUI.correct_count++;
+                isRevealed = true;
+                quizManager.gameScore -= 5;
+                quizGameUI.ScoreText.text = quizManager.gameScore.ToString();
                 if (quizGameUI.correct_count == 3)
                 {
                     //EndGame(true); // True means the player has won.
@@ -41,10 +44,11 @@ public class TileScript : MonoBehaviour
             else
             {
                 tileImage.color = Color.red;
+                isRevealed = true;
+                quizManager.gameScore -= 5;
+                quizGameUI.ScoreText.text = quizManager.gameScore.ToString();
             }
-            isRevealed = true;
-            quizManager.gameScore -= 5;
-            quizGameUI.ScoreText.text = quizManager.gameScore.ToString();
+
         }
     }
 }
