@@ -112,7 +112,7 @@ public class QuizManager : MonoBehaviour
                 quizGameUI.ReduceLife(lifesRemaining);
                 if(gameScore >= 5)
                 {
-                    //gameScore -= 5;
+                    gameScore -= 5;
                     quizGameUI.ScoreText.text = gameScore.ToString();
                 }
 
